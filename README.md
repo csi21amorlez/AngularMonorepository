@@ -1,4 +1,4 @@
-[**AngularMono](https://github.com/csi21amorlez/AngularMonorepository)** es un mono-repositorio de Angular en el que estaré subiendo los distinto proyectos
+[**AngularMono**](https://github.com/csi21amorlez/AngularMonorepository)** es un mono-repositorio de Angular en el que estaré subiendo los distinto proyectos
 
 Angular que haga en clase y en casa.
 
